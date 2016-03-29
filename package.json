@@ -1,0 +1,11 @@
+{
+  "name": "the-truth",
+  "version": "1.0.0",
+  "description": "always tell the truth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Doherty",
+  "license": "WTFPL"
+}
