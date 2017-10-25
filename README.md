@@ -14,3 +14,6 @@ var iAmTryingToBreakTheInternet = true
 theTruth(iAmTryingToBreakTheInternet) // it's TRUE!
 
 ```
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kdoh/the-truth.svg)](https://greenkeeper.io/)
